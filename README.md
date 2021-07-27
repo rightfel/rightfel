@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hanifan Rizki Nurahman here, if you want to find my real gituhub account you can check https://github.com/rightfel/hanifanrn
+Hanifan Rizki Nurahman here, if you want to find my real gituhub account you can check https://github.com/hanifanrn
 I have changed my username for some reason, this account is only for back up if there are some people that used my previous username (rightfel).
 Sorry for the inconvenience
 Have a great day!
